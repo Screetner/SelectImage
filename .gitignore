@@ -1,0 +1,11 @@
+# ignore all subdirectories
+/**/
+
+# ignore all video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.webm
